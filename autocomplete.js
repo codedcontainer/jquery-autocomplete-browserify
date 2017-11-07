@@ -31,6 +31,7 @@
  **/
 
 (function($){
+	var $ = require('jquery'); 
 	$.fn.extend({
 		autocomplete: function(settings) {
 			var container = $(this);
