@@ -29,9 +29,9 @@
  * ac.options = [ {name:"option", "description":"description of the option", html: true} ] //Advanced suggestions (with descriptions)
  *
  **/
-
+var $ = require('jquery'); 
 (function($){
-	var $ = require('jquery'); 
+	
 	$.fn.extend({
 		autocomplete: function(settings) {
 			var container = $(this);
