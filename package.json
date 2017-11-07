@@ -1,0 +1,67 @@
+{
+  "_from": "jquery-autocomplete-js@^1.1.0",
+  "_id": "jquery-autocomplete-js@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-V8TbnIbAjT9KS2qWwknXkkZPGYA=",
+  "_location": "/jquery-autocomplete-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "jquery-autocomplete-js@^1.1.0",
+    "name": "jquery-autocomplete-js",
+    "escapedName": "jquery-autocomplete-js",
+    "rawSpec": "^1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery-autocomplete-js/-/jquery-autocomplete-js-1.1.0.tgz",
+  "_shasum": "57c4db9c86c08d3f4a4b6a96c249d792464f1980",
+  "_spec": "jquery-autocomplete-js@^1.1.0",
+  "_where": "C:\\Users\\jutt\\Documents\\Github\\Surplus",
+  "author": {
+    "name": "Piotr Aleksander Styczynski",
+    "email": "piotrsty1@gmail.com",
+    "url": "https://github.com/isis97"
+  },
+  "bugs": {
+    "url": "https://github.com/isis97/autocomplete-js/issues",
+    "email": "piotrsty1@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "*"
+  },
+  "deprecated": false,
+  "description": "The simplest jQuery plugin for creating autocomplete boxes with dynamically generated suggestions.",
+  "homepage": "http://isis97.github.io/autocomplete-js/",
+  "keywords": [
+    "lightweight",
+    "simple",
+    "jquery-addon",
+    "jquery-plugin",
+    "jquery",
+    "library",
+    "jquery-library",
+    "autocomplete",
+    "javascript",
+    "js",
+    "suggestion",
+    "suggestions",
+    "auto-complete"
+  ],
+  "license": "MIT",
+  "main": "autocomplete.js",
+  "name": "jquery-autocomplete-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isis97/autocomplete-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
